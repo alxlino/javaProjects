@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 172.088 sec <<< FAILURE! - in TestSuite
+captureScreenshot(tests.NewTest)  Time elapsed: 0.535 sec  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[ERRO]> but was:<[Home-Selenium Webdriver Appium Complete Tutorial]>
+	at tests.NewTest.captureScreenshot(NewTest.java:44)
+

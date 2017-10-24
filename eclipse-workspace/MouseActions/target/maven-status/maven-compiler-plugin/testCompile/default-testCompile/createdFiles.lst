@@ -1,0 +1,4 @@
+framework\GetScreenShot.class
+pages\MouseActionsPage.class
+tests\MouseActions.class
+tests\NewTest.class
